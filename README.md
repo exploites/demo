@@ -20,3 +20,6 @@
 4.killchian.py为kali2.0的集中控制管理接口：
 使用方法：python killchina.py
 
+5.CVE-2016-1879.py为freebsd系统的DOS攻击exp,用户如下：
+在KALI下：python CVE-2016-1879.py  -m 目标MAC地址 -i 目标的IPV6地址  -I eth0(接口）
+
